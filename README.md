@@ -1,4 +1,9 @@
-# watchmen: a service monitor for node.js
+# watchmen: a service monitor for node.js fork from iloire/watchmen
+
+what changed?
+- add watchmen-plugin-slack
+- add watchmen-plugin-slack env variables
+
 
 [![Build Status](https://secure.travis-ci.org/iloire/watchmen.png?branch=master)](http://travis-ci.org/iloire/watchmen)
 
